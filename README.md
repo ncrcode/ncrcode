@@ -12,4 +12,4 @@ I'm **Nicollas Magalhães**, an Experienced **Backend Developer** with a demonst
 - 📫 How to reach me:
   **[Instagram](https://instagram.com/nr.magalhaes)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasrm&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncrcode&layout=compact&theme=dark&hide_border=true)
