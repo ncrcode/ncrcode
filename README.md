@@ -9,7 +9,5 @@ I'm **Nicollas Magalhães**, an Experienced **Backend Developer** with a demonst
 
 - 🔭 I’m currently working as **Sr. Software Engineer**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me:
-  **[LinkedIn]([https://instagram.com/nr.magalhaes](https://www.linkedin.com/in/nicollasmagalhaes/))**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncrcode&layout=compact&theme=dark&hide_border=true)
